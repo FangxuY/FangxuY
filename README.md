@@ -6,7 +6,6 @@ Hi there 👋
 - 🌱 I currently have two internship experiences. 
 - ☀️ The first internship is working as a data analysis intern in China's largest engineering consulting company.
 - ⛄ the second internship is working as a test and development intern in Alibaba Group’s Alibaba Cloud Intelligence Business Group. 
-- 🤔 I’m going to work as a back-end engineer in the future.
 - 📫 How to reach me: fabian0021@gmail.com
 - ⚡ Fun fact: LOL, Zelda, Travel, Delicious food 
 
