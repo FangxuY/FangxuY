@@ -10,6 +10,7 @@ Hi there 👋
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
 
 ![](https://github-readme-stats.vercel.app/api?username=FangxuY)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FangxuY)](https://github.com/FangxuY/github-readme-stats)
 
 
