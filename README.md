@@ -11,7 +11,7 @@ Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=FangxuY)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FangxuY)](https://github.com/FangxuY/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FangxuY)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
