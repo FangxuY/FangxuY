@@ -13,7 +13,7 @@ Hi there 👋
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FangxuY)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FangxuY)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FangxuY)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
