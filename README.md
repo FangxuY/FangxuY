@@ -9,11 +9,11 @@ Hi there 👋
 - ⚡ Fun fact: LOL, Travel, Delicious food 
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
 
-![](https://github-readme-stats.vercel.app/api?username=FangxuY)
+![](https://github-readme-stats.vercel.app/api?username=FangxuY&count_private=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FangxuY)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FangxuY)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
