@@ -15,7 +15,7 @@ Hi there 👋
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=612100d3-81a8-4fba-8428-c6b3a50fd8dc)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FangxuY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
