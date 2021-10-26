@@ -13,7 +13,7 @@ Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/612100d3-81a8-4fba-8428-c6b3a50fd8dc.svg)](https://wakatime.com/@612100d3-81a8-4fba-8428-c6b3a50fd8dc)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=612100d3-81a8-4fba-8428-c6b3a50fd8dc)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=612100d3-81a8-4fba-8428-c6b3a50fd8dc)
 
 
 
