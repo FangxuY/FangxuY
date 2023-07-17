@@ -3,9 +3,8 @@ Hi there 👋
 
 - 🔭 I’m currently a SDE(Someone Do Everything) working at Amazon. I got my Master degree at HKUST, the major is Information Technology. Previously I obtained my Bachelor’s degree from School of Infomatics, Xiamen University.
 - 🌱 I currently have two internship experiences. 
-- ☀️ The first internship is working as a data analysis intern in China's largest engineering consulting company.
-- ⛄ The second internship is working as a test and development intern in Alibaba Group’s Alibaba Cloud Intelligence Business Group. 
-- 🛰️ The third internship is working as Software Dev Engineer intern in Amazon Web Service Greater China Region.
+- ⛄ The first internship is working as a test and development intern in Alibaba Group’s Alibaba Cloud Intelligence Business Group. 
+- 🛰️ The second internship is working as Software Dev Engineer intern in Amazon Web Service Greater China Region.
 - 📫 How to reach me: fyuanad@connect.ust.hk
 - ⚡ Fun fact: Travel, Delicious food 
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
