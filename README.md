@@ -9,7 +9,7 @@ Hi there 👋
 - ⚡ Fun fact: Travel, Delicious food 
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
 
-[![Github statics](https://github-readme-stats.vercel.app/api?username=fangxuy)](https://github.com/anuraghazra/github-readme-stats)
+[![Github statics](https://github-readme-stats.vercel.app/api?username=fangxuy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/612100d3-81a8-4fba-8428-c6b3a50fd8dc.svg)](https://wakatime.com/@612100d3-81a8-4fba-8428-c6b3a50fd8dc)
 
